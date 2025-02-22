@@ -1,1 +1,1 @@
-To view the result, open: https://html-preview.github.io/?url=https://github.com/lorenzogiarrusso/Veneto-Flag/blob/main/index.html
+To view the result, open: https://htmlpreview.github.io/?https://github.com/lorenzogiarrusso/Veneto-Flag/blob/main/index.html
